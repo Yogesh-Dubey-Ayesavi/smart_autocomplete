@@ -5,7 +5,7 @@ Smart Autocomplete is a Flutter package designed to provide intelligent autocomp
 
 
 
-![Banner](graphics/Screen%20Recording%202024-04-02%20at%202.16.51 PM.gif)
+![Banner](https://github.com/Yogesh-Dubey-Ayesavi/smart_autocomplete/blob/main/graphics/Screen%20Recording%202024-04-02%20at%202.16.51%E2%80%AFPM.gif?raw=true)
 
 ## Demo
 Visit here for demo
@@ -180,10 +180,10 @@ class _MyHomePageState extends State<MyHomePage> {
 ## Documentation
 
 ### Autocomplete
-![automcompletion](graphics/autocomplete.png) 
+![automcompletion](https://github.com/Yogesh-Dubey-Ayesavi/smart_autocomplete/blob/main/graphics/autocomplete.png?raw=true) 
 
 ### Suggestions
-![suggestions](graphics/suggestions.png)
+![suggestions](https://github.com/Yogesh-Dubey-Ayesavi/smart_autocomplete/blob/main/graphics/suggestions.png?raw=true)
 
 
 

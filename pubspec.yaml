@@ -1,8 +1,12 @@
 name: smart_autocomplete
 description: "Smart Autocompletes that completes that completes your sentence within the textfield only"
-version: 1.2.1
+version: 1.2.3
 homepage: 'https://github.com/Yogesh-Dubey-Ayesavi/smart_autocomplete'
-
+platforms: 
+  android:
+  ios:
+  web:
+  
 environment:
   sdk: '>=3.3.2 <4.0.0'
   flutter: ">=1.17.0"
