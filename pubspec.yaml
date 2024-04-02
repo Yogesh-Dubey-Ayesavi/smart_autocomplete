@@ -1,6 +1,6 @@
 name: smart_autocomplete
-description: "A new Flutter package project."
-version: 0.0.1
+description: "Smart Autocompletes that completes that completes your sentence within the textfield only"
+version: 1.2.1
 homepage:
 
 environment:

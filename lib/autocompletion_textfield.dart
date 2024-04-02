@@ -140,6 +140,7 @@ class SmartAutoCompleteWidget<T> extends StatefulWidget {
   ///   return ['apple','apricot','avocado'];
   /// },
   /// ```
+  /// ![suggestions](graphics/suggestions.png)
   final GetSuggestionsCallback<T> getSuggestions;
 
   /// A callback function used to fetch autocompletion for a given input text.
@@ -155,6 +156,7 @@ class SmartAutoCompleteWidget<T> extends StatefulWidget {
   /// ```
   /// - `Null` is returned when there is no match
   /// - `String` is returned when there is a match
+  /// ![autocompletion](graphics/autocomplete.png)
   final GetAutocompletionCallback<String> getAutocompletion;
 
   const SmartAutoCompleteWidget({
